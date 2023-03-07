@@ -26,3 +26,13 @@ body {
   padding-top: 10px;
   padding-bottom: 20px;
 }
+
+.nav{
+  --bs-nav-link-color: black;
+  --bs-nav-link-font-weight: bold;
+}
+
+footer{
+  background-color: #292929;
+  color: white;
+}
